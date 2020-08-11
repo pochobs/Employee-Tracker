@@ -1,0 +1,33 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alfonso Barreto",
+  "license": "ISC",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0",
+    "node": "^12.18.2"
+  },
+  "devDependencies": {},
+  "description": "A command application, where you can manage data about your employee, you can add an employee, its roles, you can also delete them or make changes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pochobs/Employee-Tracker.git"
+  },
+  "keywords": [
+    "INQUIRER",
+    "MYSQLITE2",
+    "asciiart-logo",
+    "console.table"
+  ],
+  "bugs": {
+    "url": "https://github.com/pochobs/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/pochobs/Employee-Tracker#readme"
+}
