@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryannekillian/employee-tracker.git"
+    "url": "git+https://github.com/pochobs/Employee-Tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryannekillian/employee-tracker/issues"
+    "url": "https://github.com/pochobs/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/ryannekillian/employee-tracker#readme"
+  "homepage": "https://github.com/pochobs/Employee-Tracker#readme"
 }
